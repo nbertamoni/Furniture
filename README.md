@@ -10,5 +10,7 @@ The software I am using to design is FreeCAD 0.21.2
 
 ![alt text](https://raw.githubusercontent.com/nbertamoni/Furniture/refs/heads/main/furniture_preview2.bmp)
 
+![alt text](https://raw.githubusercontent.com/nbertamoni/Furniture/refs/heads/main/furniture_preview3.bmp)
+
 
 
