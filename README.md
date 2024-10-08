@@ -14,4 +14,8 @@ The software I am using to design is FreeCAD 0.21.2
 
 ![alt text](https://raw.githubusercontent.com/nbertamoni/Furniture/refs/heads/main/furniture_preview_shelf_height.bmp)
 
+#final Result
+
+![alt text](https://raw.githubusercontent.com/nbertamoni/Furniture/refs/heads/main/final_result.jpg)
+
 
