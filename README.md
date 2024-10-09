@@ -17,7 +17,7 @@ The software I am using to design is FreeCAD 0.21.2
 
 
 
-# final Result
+# Final result
 The overall result is good. The possible changes is to make the shelfs better distributed to the opening doors.
 ![alt text](https://raw.githubusercontent.com/nbertamoni/Furniture/refs/heads/main/final_result.jpg)
 
